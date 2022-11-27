@@ -1,2 +1,4 @@
-to compile gcc TP2.c -o TP2 -lpthread
-to run the binary file ./TP2
+## compile 
+```bash gcc TP2.c -o TP2 -lpthread ```
+## run the binary file
+```./TP2 ```
